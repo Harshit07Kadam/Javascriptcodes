@@ -1,0 +1,1 @@
+        console.log('THE COLLEGE NAME IS= ${this.name} \n COLLEGE ID IS= ${this.name}')
